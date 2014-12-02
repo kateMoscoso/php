@@ -1,0 +1,5 @@
+02-12-2014 11:01:27 : ::1 :  : http://
+02-12-2014 11:01:44 : ::1 : http://localhost:8000/tracking/enlaces.html : http://www.zend.com
+02-12-2014 11:07:01 : ::1 : http://localhost:8000/tracking/enlaces.html : http://phpclasses.org/
+02-12-2014 11:16:09 : ::1 : http://localhost:8000/tracking/enlaces.html : http://symfony.com/
+02-12-2014 11:16:13 : ::1 : http://localhost:8000/tracking/enlaces.html : http://www.spf.com/
